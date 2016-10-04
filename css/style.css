@@ -85,6 +85,10 @@ a {
 
 }
 
+ul{
+    margin-left: 50px;
+}
+
 /* BANNER */
 
 #banner {
@@ -141,13 +145,6 @@ a {
     width: 100%;
 }
 
-.img img {
-    padding-bottom: 15px;
-
-
-    width: 350px;
-    height: 212px;
-}
 
 /*FOOTER*/
 
@@ -195,7 +192,7 @@ a {
 
 .gallery-item {
     margin: 10px;
-    width: 300px;
+    width: 220px;
 }
 
 .gallery-item .thumbnail {
